@@ -1,39 +1,111 @@
-2# كاظم أجود الملكي}
-# This is just the beggining
+<style>
+/* README Styles */
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  padding: 20px;
+  margin: 0;
+  background-color: #f5f5f5;
+}
 
-Briefly introduce your project here. Provide a high-level overview to grab the attention of visitors.
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin-bottom: 10px;
+}
 
-## Table of Contents
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
 
-## Features
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
 
-List the key features and functionalities of your project. Highlight what makes it unique and useful.
+h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
 
-## Installation
+h5 {
+  font-size: 16px;
+  font-weight: bold;
+}
 
-Provide step-by-step instructions on how to install and set up your project. Include any prerequisites or dependencies that need to be installed.
+h6 {
+  font-size: 14px;
+  font-weight: bold;
+}
 
-## Usage
+/* Links */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
 
-Explain how to use your project. Provide examples, code snippets, or screenshots to demonstrate its functionality. If applicable, include a section on configuration options or customizations.
+a:hover {
+  text-decoration: underline;
+}
 
-## Contributing
+/* Code Blocks */
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 10px;
+  overflow: auto;
+}
 
-Indicate whether you are open to contributions from the community. If you are, specify guidelines for contributing and provide instructions on how to set up the development environment.
+code {
+  font-family: 'Courier New', Courier, monospace;
+}
 
-## License
+/* Inline Code */
+.inline-code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f8f8f8;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
 
-State the license under which your project is distributed. If you're unsure, [choose a license](https://choosealicense.com/) that suits your needs.
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
 
----
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
 
-Include any additional sections or information that you think would be relevant to your project.
+th {
+  background-color: #f5f5f5;
+}
 
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 5px solid #ddd;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+</style>
