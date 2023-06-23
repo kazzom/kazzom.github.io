@@ -1,4 +1,14 @@
-# كاظم أجود الملكي
+2# كاظم أجود الملكي
+@font-face {
+    font-family: 'mywebfont';
+    src: url('adobe_regular.eot');
+    src: url('adobe_regular.eot?#iefix') format('embedded-opentype'),
+         url('adobe_regular.woff') format('woff'),
+         url('adobe_regular.ttf') format('truetype'),
+         url('adobe_regular.svg#adobe_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 # This is just the beggining
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
